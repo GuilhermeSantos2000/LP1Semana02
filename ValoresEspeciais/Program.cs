@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection.PortableExecutable;
 
 namespace ValoresEspeciais
 {
@@ -69,6 +70,8 @@ namespace ValoresEspeciais
             Console.WriteLine(PositiveInfiniteDouble);
             Console.WriteLine(NegativeInfiniteDouble);
             Console.WriteLine(NotANumberDouble);
+
+            Console.WriteLine(MaxUInt + 1);
         }
     }
 }
