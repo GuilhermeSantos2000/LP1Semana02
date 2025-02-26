@@ -72,6 +72,9 @@ namespace ValoresEspeciais
             Console.WriteLine(NotANumberDouble);
 
             Console.WriteLine(MaxUInt + 1);
+
+            Console.WriteLine(MaxFloat + 1);
+            Console.WriteLine(MaxFloat * 2);
         }
     }
 }
