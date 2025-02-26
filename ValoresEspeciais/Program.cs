@@ -39,6 +39,9 @@ namespace ValoresEspeciais
             double NegativeInfiniteDouble = double.NegativeInfinity;
             double NotANumberDouble = double.NaN;
 
+            float f1, f2;
+            f1 = f2 = 10000.0f;
+
             Console.WriteLine(MaxByte);
             Console.WriteLine(MinByte);
             Console.WriteLine(MaxShort);
@@ -75,6 +78,8 @@ namespace ValoresEspeciais
 
             Console.WriteLine(MaxFloat + 1);
             Console.WriteLine(MaxFloat * 2);
+            
+            Console.WriteLine(f1 == f2 + 0.0001f);
         }
     }
 }
