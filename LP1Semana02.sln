@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValoresEspeciais", "ValoresEspeciais\ValoresEspeciais.csproj", "{C73CD83B-B12B-4EB1-A8EE-E33E20CF82A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTZero", "ChatGPTZero\ChatGPTZero.csproj", "{FE88E720-28FA-4443-9B4A-737ECC11F853}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{C73CD83B-B12B-4EB1-A8EE-E33E20CF82A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C73CD83B-B12B-4EB1-A8EE-E33E20CF82A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C73CD83B-B12B-4EB1-A8EE-E33E20CF82A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE88E720-28FA-4443-9B4A-737ECC11F853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE88E720-28FA-4443-9B4A-737ECC11F853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE88E720-28FA-4443-9B4A-737ECC11F853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE88E720-28FA-4443-9B4A-737ECC11F853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
